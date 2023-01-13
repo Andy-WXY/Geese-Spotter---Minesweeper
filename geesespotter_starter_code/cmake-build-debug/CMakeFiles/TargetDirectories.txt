@@ -1,0 +1,3 @@
+/Users/weixinyuan/Desktop/ECE 150/geesespotter_starter_code/cmake-build-debug/CMakeFiles/geesespotter_starter_code.dir
+/Users/weixinyuan/Desktop/ECE 150/geesespotter_starter_code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/weixinyuan/Desktop/ECE 150/geesespotter_starter_code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
